@@ -48,3 +48,10 @@ The final report include each of the following:
 
 + Player count
     * Total Number of Players
+
++ Purchasing Analysis (Total)
+    * Number of Unique Items
+    * Average Purchase Price
+    * Total Number of Purchases
+    * Total Revenue
+
