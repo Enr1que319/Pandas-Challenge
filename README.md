@@ -71,3 +71,9 @@ The final report include each of the following:
     * Average Purchase Price
     * Total Purchase Value
     * Average Purchase Total per Person by Age Group
+
++ Top Spenders (top 5 spenders in the game by total purchase value)
+    * SN
+    * Purchase Count
+    * Average Purchase Price
+    * Total Purchase Value
