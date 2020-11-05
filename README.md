@@ -16,3 +16,29 @@ The following tools were used to do the analysis
 - Python 3
 - Pandas
 - Jupyter Notebook
+
+## Data
+
+The information used is from the game Heroes of Pymoli provided by Tecnologico de Monterrey, is a CSV file stored in resources folder
+
+#### Schema
+
+|   Column   | Data Type |
+| ---------- | ----------|
+| PurchaseId |   `int`   |
+|     SN     |   `str`   |
+|     Age    |   `int`   |
+|   Gender   |   `str`   |
+|   ItemId   |   `int`   |
+|   ItemName |   `str`   |
+|    Price   |  `float`  |
+
+- PurchaseId  -> Id for the purchase item
+- SN          -> Name od the player
+- Age         -> Age of the player
+- Gender      -> Gender of the Player
+- ItemId      -> Id for the item
+- ItemName    -> Name of the item
+- Price       -> Price of the item
+
+
