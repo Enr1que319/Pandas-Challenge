@@ -77,3 +77,10 @@ The final report include each of the following:
     * Purchase Count
     * Average Purchase Price
     * Total Purchase Value
+
++ Most Popular Items (by purchase count)
+    * Item ID
+    * Item Name
+    * Purchase Count
+    * Item Price
+    * Total Purchase Value
