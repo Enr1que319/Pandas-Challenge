@@ -84,3 +84,10 @@ The final report include each of the following:
     * Purchase Count
     * Item Price
     * Total Purchase Value
+
++ Most Profitable Items ( 5 most profitable items by total purchase value)
+    * Item ID
+    * Item Name
+    * Purchase Count
+    * Item Price
+    * Total Purchase Value
