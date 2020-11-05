@@ -8,3 +8,11 @@ Games are currently very important since many types of people currently use them
 
 Heroes of Pymoli is a game of fantasy, like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, a report was generated that breaks down the game's purchasing data into meaningful insights.
 
+## Tools
+
+The following tools were used to do the analysis
+
+#### Analysis:
+- Python 3
+- Pandas
+- Jupyter Notebook
