@@ -34,7 +34,7 @@ The information used is from the game Heroes of Pymoli provided by Tecnologico d
 |    Price   |  `float`  |
 
 - PurchaseId  -> Id for the purchase item
-- SN          -> Name od the player
+- SN          -> Name of the player
 - Age         -> Age of the player
 - Gender      -> Gender of the Player
 - ItemId      -> Id for the item
@@ -42,3 +42,9 @@ The information used is from the game Heroes of Pymoli provided by Tecnologico d
 - Price       -> Price of the item
 
 
+## The Report
+
+The final report include each of the following:
+
++ Player count
+    * Total Number of Players
