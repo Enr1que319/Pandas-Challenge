@@ -10,7 +10,7 @@ Heroes of Pymoli is a game of fantasy, like many others in its genre, the game i
 
 ## Tools
 
-The following tools were used to do the analysis
+The following tools were used to do the analysis.
 
 #### Analysis:
 - Python 3
